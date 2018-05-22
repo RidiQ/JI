@@ -43,7 +43,7 @@ sudo apt-get install build-essential
 sudo apt-get install bc
 sudo apt-get install linux-headers-`uname -r`
 ```
-For Raspberry (RPI)
+For Raspberry (RPI) the headers package may be installed with
 ```
 sudo apt install raspberrypi-kernel-headers
 ```
